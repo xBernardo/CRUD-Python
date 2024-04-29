@@ -1,1 +1,1 @@
-Script-CRUD simples criado com a lingaguem Python. Com apenas algumas linhas de código, fui capaz de criar um sistema que me permitia adicionar, visualizar, atualizar e excluir dados de forma eficiente.
+Script CRUD simples utilizando a linguagem Python e MySQL. Com apenas algumas linhas de código, fui capaz de desenvolver um sistema que me permite adicionar, visualizar, atualizar e excluir dados de forma eficiente. Essa integração com o MySQL permite que o script manipule os dados diretamente no banco de dados, proporcionando uma solução robusta e escalável.
